@@ -178,7 +178,9 @@ h2{
 ul > li > .title-thd{
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
+
 
 .title-thd-p{
     letter-spacing: 0.02em;
@@ -255,7 +257,7 @@ ul > li {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin: 0;
+    margin-bottom: 72px;
 }
 
 .our-team > ul > .team-li{
@@ -266,7 +268,7 @@ ul > li {
     letter-spacing: 0.02em;
     color: #2e2f42;
     align-items: center;
-    margin: 0;
+    margin-bottom: 8px;
 }
 
 .title-team-p{
@@ -320,7 +322,7 @@ ul > li {
 }
 
 .title-portfolio{
-    margin: 0;
+    margin-bottom: 8px;
 }
 
 /* finish 4 section */
